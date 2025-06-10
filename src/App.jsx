@@ -15,7 +15,7 @@ import { SignMessage } from "./Components/SignMessage";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { SendSolana } from "./Components/SendSolana";
 import { Header } from "./Components/Header";
-import { Footer } from "./Components/footer";
+import { Footer } from "./Components/Footer";
 
 function App() {
   return (
