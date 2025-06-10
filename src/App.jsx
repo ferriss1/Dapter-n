@@ -14,7 +14,7 @@ import { ShowBalance } from "./Components/ShowBalance";
 import { SignMessage } from "./Components/SignMessage";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { SendSolana } from "./Components/SendSolana";
-import { Header } from "./Components/header";
+import { Header } from "./Components/Header";
 import { Footer } from "./Components/footer";
 
 function App() {
